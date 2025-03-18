@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Game Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me : 
+- 📫 How to reach me : Via my LinkedIN
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
