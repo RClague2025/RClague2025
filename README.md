@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RClague2025
 - 👀 I’m interested in Video Game Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python and PyOpenGL/Moderngl, C++
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me : Via my LinkedIN
 - 😄 Pronouns: he/him
